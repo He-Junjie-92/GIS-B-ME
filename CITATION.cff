@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use GIS-B-ME in your research, please cite this dataset."
+title: "GIS-B-ME: A Semi-Synthetic Benchmark for Elevator Preventive Maintenance Scheduling on Real-World Urban Road Networks"
+type: dataset
+version: "1.0"
+authors:
+  - given-names: "Xuesong"
+    family-names: "Xu"
+    affiliation: "College of Mechanical Engineering, Zhejiang University of Technology"
+    email: "song885280@zjut.edu.cn"
+  - given-names: "Junjie"
+    family-names: "He"
+    affiliation: "College of Mechanical Engineering, Zhejiang University of Technology"
+    email: "211124020063@zjut.edu.cn"
+  - given-names: "Chuntao"
+    family-names: "Li"
+    affiliation: "College of Mechanical Engineering, Zhejiang University of Technology"
+    email: "202005030411@zjut.edu.cn"
+  - given-names: "Xinggang"
+    family-names: "Feng"
+    email: "feng.xinggang@xizielevator.com"
+  - given-names: "Gang"
+    family-names: "Xiao"
+    affiliation: "College of Mechanical Engineering, Zhejiang University of Technology"
+    email: "xg@zjut.edu.cn"
+  - given-names: "Hongtao"
+    family-names: "Tang"
+    affiliation: "College of Mechanical Engineering, Zhejiang University of Technology"
+    email: "tanght@zjut.edu.cn"
+repository-code: "https://github.com/He-Junjie-92/GIS-B-ME"
+url: "https://github.com/He-Junjie-92/GIS-B-ME/releases/tag/v1.0"
+license: ODbL-1.0
+abstract: >-
+  A 135-instance semi-synthetic benchmark for elevator preventive maintenance
+  scheduling, combining frozen OpenStreetMap road and building data with
+  controlled task, calendar, capacity and workforce parameters.
+keywords:
+  - elevator maintenance
+  - vehicle routing
+  - workforce scheduling
+  - benchmark dataset
+  - GIS
+  - OpenStreetMap

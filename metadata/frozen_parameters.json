@@ -1,0 +1,112 @@
+{
+  "dataset_name": "GIS-B-ME",
+  "status": "rebuilt_and_validated",
+  "cities": [
+    "BJS",
+    "SHA",
+    "CKG"
+  ],
+  "study_area_target_km2": 200,
+  "study_area_realized_km2": {
+    "BJS": 205.09900736578368,
+    "SHA": 202.81697741355134,
+    "CKG": 193.35405439672851
+  },
+  "scales": [
+    100,
+    500,
+    1000
+  ],
+  "cluster_patterns": [
+    "CU",
+    "CH",
+    "CZ"
+  ],
+  "seeds": [
+    12,
+    34,
+    56,
+    78,
+    90
+  ],
+  "formal_instance_count": 135,
+  "cycle_days": 15,
+  "day_1": "Monday",
+  "service_min": 30,
+  "shift_min": 480,
+  "fixed_speed_kmph": 15,
+  "building_candidate_pool_per_city": 1000,
+  "min_building_area_m2": 40,
+  "max_snap_distance_m": 150,
+  "building_type_target_ratios": {
+    "RES": 0.74,
+    "OFF": 0.12,
+    "COM": 0.08,
+    "SCH": 0.06
+  },
+  "building_type_assignment": "frozen_city_level_10x10_spatial_strata_exact_global_ratio",
+  "service_windows": {
+    "RES": {
+      "all_days": [
+        0,
+        480
+      ]
+    },
+    "OFF": {
+      "weekday": [
+        120,
+        360
+      ],
+      "weekend": null
+    },
+    "COM": {
+      "weekday": [
+        0,
+        480
+      ],
+      "weekend": null
+    },
+    "SCH": {
+      "weekday": null,
+      "weekend": [
+        0,
+        480
+      ]
+    }
+  },
+  "candidate_technician_pool": {
+    "100": 5,
+    "500": 10,
+    "1000": 15
+  },
+  "time_rule_mode": "fixed_business_windows_v3",
+  "tw_dimension": "removed",
+  "time_window_design": "fixed by building type; no time-window scenario dimension",
+  "release_folder": "GIS-B-ME-v1.0",
+  "building_osm_id_status": "original_osm_ids_recovered_from_frozen_cache_by_geometry_match",
+  "coordinate_reference_systems": {
+    "geographic": "EPSG:4326",
+    "projected_by_city": {
+      "BJS": "EPSG:32650",
+      "SHA": "EPSG:32651",
+      "CKG": "EPSG:32648"
+    },
+    "local_xy": "kilometres relative to the projected study origin; see DATA_SCHEMA.md"
+  },
+  "road_network_data_date": "2026-08-31",
+  "dataset_release": "GIS-B-ME-v1.0",
+  "design_version": "v3",
+  "assembly_revision": "v3.1.0",
+  "assembly_revision_date": "2026-09-15",
+  "dataset_title": "GIS-B-ME: A Semi-Synthetic Benchmark for Elevator Preventive Maintenance Scheduling on Real-World Urban Road Networks",
+  "publication": {
+    "platform": "GitHub",
+    "repository_url": "https://github.com/He-Junjie-92/GIS-B-ME",
+    "release_url": "https://github.com/He-Junjie-92/GIS-B-ME/releases/tag/v1.0",
+    "release_asset": "GIS-B-ME-v1.0.zip",
+    "checksum_sidecar": "GIS-B-ME-v1.0.zip.sha256",
+    "release_status": "READY_FOR_GITHUB_RELEASE",
+    "release_artifacts_current": true,
+    "blocking_item": null
+  }
+}

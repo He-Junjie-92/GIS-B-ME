@@ -1,0 +1,11 @@
+{
+  "dataset_release": "GIS-B-ME-v1.0",
+  "instances": 135,
+  "tasks": 72000,
+  "reference_solutions": 135,
+  "K-OPT": 77,
+  "K-OPEN": 58,
+  "Gap1": 40,
+  "Gap2": 18,
+  "sha_snapshot": "2026-08-31"
+}

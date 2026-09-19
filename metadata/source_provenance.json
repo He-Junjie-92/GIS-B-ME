@@ -1,0 +1,77 @@
+[
+  {
+    "city_code": "BJS",
+    "matched_buildings": 1000,
+    "raw_polygon_count": 31859,
+    "maximum_geometry_hausdorff_degrees": 2.5618982671915014e-14,
+    "buildings": {
+      "cache_file": "5c328bcb43bc5bd6d8466c5f0861db81fcb76f9b.json",
+      "sha256": "116be768f2791b4a073d7f23a024182104224ca66f4b33731440a59758963d7f",
+      "osm_base_timestamp_utc": "2026-08-31T06:48:51Z"
+    },
+    "roads": {
+      "cache_file": "13bab87a8f86e070061e12d45c488d5140c2d91e.json",
+      "sha256": "bd2e7f5bf403aa565beeb81dd87700f1d0711c09eeebe2f5edc90500abb62598",
+      "osm_base_timestamp_utc": "2026-08-31T06:48:51Z"
+    }
+  },
+  {
+    "city_code": "SHA",
+    "matched_buildings": 1000,
+    "raw_polygon_count": 34948,
+    "maximum_geometry_hausdorff_degrees": 2.5618982671915014e-14,
+    "buildings": {
+      "historical_query_cutoff_utc": "2026-08-31T23:59:59Z",
+      "released_building_candidates_file": "data/shared/cities/SHA/building_candidates.geojson",
+      "released_building_candidates_sha256": "63ea688b8cd81ec126d62d4a88fe700524ee5820017c7bbb9043dfea6d856496",
+      "query_cache_files": [
+        {
+          "file": "e8fc61d3d457b6d1cb136cf5ffcd6ac7564395b0.json",
+          "sha256": "5b6edfa38647988ee0c0f11c3da878944d2510604a0b6de3eacce1cabd8afc80",
+          "bytes": 31685717
+        },
+        {
+          "file": "f967ebddd4641ceaa9d58db383e7612a8c636770.json",
+          "sha256": "ff308706848a90c929e23581e0325085873adfbc05c8741ebc18121ac8bf7215",
+          "bytes": 7589376
+        }
+      ],
+      "status": "reconstructed_from_authorized_2026-08-31_historical_query"
+    },
+    "roads": {
+      "historical_query_cutoff_utc": "2026-08-31T23:59:59Z",
+      "retrieved_at_utc": "2026-09-15T02:17:08.744236+00:00",
+      "overpass_response_timestamp_note": "The response osm3s timestamp records server/retrieval state; the historical data cutoff is enforced by the Overpass [date] clause.",
+      "cache_files": [
+        {
+          "file": "e8fc61d3d457b6d1cb136cf5ffcd6ac7564395b0.json",
+          "sha256": "5b6edfa38647988ee0c0f11c3da878944d2510604a0b6de3eacce1cabd8afc80",
+          "bytes": 31685717
+        },
+        {
+          "file": "f967ebddd4641ceaa9d58db383e7612a8c636770.json",
+          "sha256": "ff308706848a90c929e23581e0325085873adfbc05c8741ebc18121ac8bf7215",
+          "bytes": 7589376
+        }
+      ],
+      "released_graph_sha256": "d88150727f35cf30cda11768ef23c88c25b4010a73de00f7be6359ce22ee7779"
+    },
+    "component_snapshot_note": "Shanghai buildings and roads use the harmonized 2026-08-31 snapshot policy. Exact UTC time is non-normative for the cross-city calendar-date label."
+  },
+  {
+    "city_code": "CKG",
+    "matched_buildings": 1000,
+    "raw_polygon_count": 6684,
+    "maximum_geometry_hausdorff_degrees": 2.0097183471152322e-14,
+    "buildings": {
+      "cache_file": "7b79c0b1f50f45715d5cd14c42180b990903364a.json",
+      "sha256": "19e21fc3a35d575d6b59fd8ecddd9db3870c911598fef3648410dadc47317f58",
+      "osm_base_timestamp_utc": "2026-08-31T06:49:49Z"
+    },
+    "roads": {
+      "cache_file": "7911ed2dd9a399a2c1695aa681f57c267d4bd84d.json",
+      "sha256": "86ad64d68b549242ff5414e96ce7773d0858ed9cdddc2aa18183f6f2eb261fff",
+      "osm_base_timestamp_utc": "2026-08-31T06:49:49Z"
+    }
+  }
+]

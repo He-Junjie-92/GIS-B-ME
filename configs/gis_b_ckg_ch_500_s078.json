@@ -1,0 +1,43 @@
+{
+  "city_id": "CKG",
+  "city_name": "Chongqing central area",
+  "bbox": {
+    "west": 106.46,
+    "south": 29.5,
+    "east": 106.61,
+    "north": 29.62
+  },
+  "network_type": "drive",
+  "speed_fallback_kmph": 30.0,
+  "max_snap_distance_m": 150.0,
+  "min_building_area_m2": 40.0,
+  "building_candidates_pool_size": 1000,
+  "building_type_assignment_seed": 2026083101,
+  "benchmark_stage": "GIS-B-ME-v3-full135",
+  "scale": 500,
+  "cluster_pattern": "CH",
+  "tw_scenario": "NO_TW_DIMENSION",
+  "time_rule_mode": "fixed_business_windows_v3",
+  "seed": 78,
+  "output_root": "data/instances",
+  "shared_road_network_path": "data/shared/cities/CKG/road_network.graphml",
+  "shared_building_candidates_path": "data/shared/cities/CKG/building_candidates.geojson",
+  "write_city_assets_per_instance": false,
+  "fixed_speed_kmph": 15.0,
+  "candidate_pool_by_scale": {
+    "100": 5,
+    "500": 10,
+    "1000": 15
+  },
+  "building_type_target_ratios": {
+    "RES": 0.74,
+    "OFF": 0.12,
+    "COM": 0.08,
+    "SCH": 0.06
+  },
+  "building_type_assignment_scope": "frozen_city_level_spatially_stratified",
+  "elevator_assignment_mode": "building_condition_capacity",
+  "capacity_threshold_factor": 1.0,
+  "building_search_radius_m": 250.0,
+  "generation_protocol": "paired_rebuild_from_frozen_v2_spatial_instances"
+}

@@ -1,0 +1,26 @@
+{
+  "instances": 135,
+  "solution_files": 135,
+  "task_rows": 72000,
+  "passed": 135,
+  "failed": 0,
+  "K-OPT": 77,
+  "K-OPEN": 58,
+  "gap_1": 40,
+  "gap_2": 18,
+  "by_scale_K_OPT": {
+    "100": 45,
+    "500": 32,
+    "1000": 0
+  },
+  "by_city_K_OPT": {
+    "BJS": 27,
+    "CKG": 20,
+    "SHA": 30
+  },
+  "by_pattern_K_OPT": {
+    "CH": 24,
+    "CU": 23,
+    "CZ": 30
+  }
+}

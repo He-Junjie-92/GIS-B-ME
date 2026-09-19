@@ -1,0 +1,14 @@
+*.zip
+*.zip.sha256
+instances/
+travel_matrices/
+reference_results/solutions/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.tmp
+*.log

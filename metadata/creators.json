@@ -1,0 +1,68 @@
+{
+  "status": "CONFIRMED FOR RELEASE",
+  "creator_order": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "creators": [
+    {
+      "order": 1,
+      "given_names": "Xuesong",
+      "family_names": "Xu",
+      "affiliation": "College of Mechanical Engineering, Zhejiang University of Technology",
+      "email": "song885280@zjut.edu.cn",
+      "orcid_status": "missing_or_unconfirmed"
+    },
+    {
+      "order": 2,
+      "given_names": "Junjie",
+      "family_names": "He",
+      "affiliation": "College of Mechanical Engineering, Zhejiang University of Technology",
+      "email": "211124020063@zjut.edu.cn",
+      "orcid_status": "missing_or_unconfirmed"
+    },
+    {
+      "order": 3,
+      "given_names": "Chuntao",
+      "family_names": "Li",
+      "affiliation": "College of Mechanical Engineering, Zhejiang University of Technology",
+      "email": "202005030411@zjut.edu.cn",
+      "orcid_status": "missing_or_unconfirmed"
+    },
+    {
+      "order": 4,
+      "given_names": "Xinggang",
+      "family_names": "Feng",
+      "name_zh": "冯兴刚",
+      "affiliation": null,
+      "affiliation_status": "not_supplied",
+      "email": "feng.xinggang@xizielevator.com",
+      "orcid_status": "missing_or_unconfirmed"
+    },
+    {
+      "order": 5,
+      "given_names": "Gang",
+      "family_names": "Xiao",
+      "affiliation": "College of Mechanical Engineering, Zhejiang University of Technology",
+      "email": "xg@zjut.edu.cn",
+      "orcid_status": "missing_or_unconfirmed"
+    },
+    {
+      "order": 6,
+      "given_names": "Hongtao",
+      "family_names": "Tang",
+      "affiliation": "College of Mechanical Engineering, Zhejiang University of Technology",
+      "email": "tanght@zjut.edu.cn",
+      "orcid_status": "missing_or_unconfirmed"
+    }
+  ],
+  "confirmed_orcid": [],
+  "notes": [
+    "No ORCID was written without explicit evidence.",
+    "Xinggang Feng's affiliation was not supplied and is therefore not inferred from the email domain."
+  ]
+}

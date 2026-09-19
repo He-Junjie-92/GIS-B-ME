@@ -1,0 +1,17 @@
+{
+  "BJS": {
+    "projected_crs": "EPSG:32650",
+    "origin_easting_m": 442040.3660757754,
+    "origin_northing_m": 4410143.806682922
+  },
+  "SHA": {
+    "projected_crs": "EPSG:32651",
+    "origin_easting_m": 348473.8841299812,
+    "origin_northing_m": 3449359.5943998788
+  },
+  "CKG": {
+    "projected_crs": "EPSG:32648",
+    "origin_easting_m": 641999.7912918642,
+    "origin_northing_m": 3264452.1413938543
+  }
+}
