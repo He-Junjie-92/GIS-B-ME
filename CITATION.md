@@ -2,10 +2,10 @@
 
 If you use GIS-B-ME in academic research, please cite:
 
-Xuesong Xu; Junjie He; Chuntao Li; Xinggang Feng; Gang Xiao; Hongtao Tang.
-(2026). *GIS-B-ME: A Semi-Synthetic
-Benchmark for Elevator Preventive Maintenance Scheduling on Real-World Urban
-Road Networks*. Version 1.0. GitHub.
+Xu, X., He, J., Li, C., Chen, B., Feng, X., Xiao, G., & Tang, H. (2026).
+*GIS-B-ME: A Semi-Synthetic Benchmark for Elevator Preventive Maintenance
+Scheduling on Real-World Urban Road Networks* (Version 1.0). GitHub.
+https://github.com/He-Junjie-92/GIS-B-ME/releases/tag/v1.0
 
 Repository: `https://github.com/He-Junjie-92/GIS-B-ME`
 

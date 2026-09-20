@@ -8,6 +8,6 @@ scientific files remain identical to their audited baseline.
 The detailed structural validation is recorded in `RC2_FULL_VALIDATION_REPORT.md`.
 The public release contains 135 instances, 72,000 tasks, 56,844,135 OD records
 and 135 independently validated BKS schedules. Workforce status is K-OPT=77,
-K-OPEN=58, Gap1=40 and Gap2=18. The six-creator order is recorded in
+K-OPEN=58, Gap1=40 and Gap2=18. The seven-creator order is recorded in
 `CITATION.cff` and `metadata/creators.json`; no ORCID is asserted without
 explicit evidence.

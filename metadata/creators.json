@@ -6,7 +6,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "creators": [
     {
@@ -35,6 +36,16 @@
     },
     {
       "order": 4,
+      "given_names": "Benyao",
+      "family_names": "Chen",
+      "affiliation": null,
+      "affiliation_status": "not_supplied",
+      "email": null,
+      "email_status": "not_supplied",
+      "orcid_status": "missing_or_unconfirmed"
+    },
+    {
+      "order": 5,
       "given_names": "Xinggang",
       "family_names": "Feng",
       "name_zh": "冯兴刚",
@@ -44,7 +55,7 @@
       "orcid_status": "missing_or_unconfirmed"
     },
     {
-      "order": 5,
+      "order": 6,
       "given_names": "Gang",
       "family_names": "Xiao",
       "affiliation": "College of Mechanical Engineering, Zhejiang University of Technology",
@@ -52,7 +63,7 @@
       "orcid_status": "missing_or_unconfirmed"
     },
     {
-      "order": 6,
+      "order": 7,
       "given_names": "Hongtao",
       "family_names": "Tang",
       "affiliation": "College of Mechanical Engineering, Zhejiang University of Technology",
@@ -63,6 +74,7 @@
   "confirmed_orcid": [],
   "notes": [
     "No ORCID was written without explicit evidence.",
+    "Benyao Chen's affiliation and email were not supplied and are therefore not inferred.",
     "Xinggang Feng's affiliation was not supplied and is therefore not inferred from the email domain."
   ]
 }
